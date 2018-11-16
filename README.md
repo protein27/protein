@@ -11,7 +11,7 @@ images by [Jonathan Schnabel](https://www.kaggle.com/jschnab/exploring-the-human
 green: protein  
 red: microtubules  
 blue: nucleus  
-yellow: endoplasmid reticulum  
+yellow: endoplasmic reticulum  
 
 
 ![distribution](distribution.png)
