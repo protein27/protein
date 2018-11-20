@@ -25,3 +25,9 @@ F1 macro: 0.7203957181622302 F1 macro (th = 0.5): 0.684800026809271 F1 micro: 0.
 
 用seeded watershed segmentation（种子分水岭分割），从细胞核（blue channel）开始分割，传统算法开启闭合。阈值不太好取？
 
+### how not to overfit : attention is what you need ?
+
+Discussion区的这篇可以看看
+
+reconstruction没什么用；CAM (class activation map)可视化； [multiple instance learning](https://academic.oup.com/bioinformatics/article/32/12/i52/2288769)；缓解过拟合：把两张图按比例重叠在一起，取两张图标签的并集（还有这种操作）
+加权的[global pooling](https://arxiv.org/pdf/1809.08264.pdf)
