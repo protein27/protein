@@ -1,4 +1,7 @@
 # protein
+## 2018/11/22
+
+任务分配：配置服务器环境（陈）；跑通baseline（勇）；混淆矩阵（年）；结果分析（俞）；设定阈值提交结果（天）；搭建resnet18（张）
 
 ## code
 <https://www.kaggle.com/rejpalcz/cnn-128x128x4-keras-from-scratch-lb-0-328>
